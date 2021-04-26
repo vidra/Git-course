@@ -1,2 +1,2 @@
 document.body.innerHTML = '<h1>Hello</h1>'
-console.log
+console.log('Test')
